@@ -9,3 +9,6 @@ liner codes = any sum of two valid codewords is is another valid codeword
 
 cyclic codes are represented as polynomials
 
+example:  
+1011 = ![](https://latex.codecogs.com/gif.image?\dpi{110}&space;1x^0&space;&plus;&space;0x^1&space;&plus;&space;1x^2&space;&plus;&space;1x^3)
+
