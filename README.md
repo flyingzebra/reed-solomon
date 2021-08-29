@@ -14,5 +14,5 @@ example message:
 = ![](https://latex.codecogs.com/gif.image?\dpi{110}&space;1&space;&plus;&space;x^2&space;&plus;&space;x^3)
 
 convertion from message space to codeword space is achieved by:  
-**multiplying** the message polynomial by a special **generator polinomial**
+**multiplying** the message polynomial by a special **generator polynomial**
 
