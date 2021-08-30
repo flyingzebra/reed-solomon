@@ -1,9 +1,14 @@
 # reed-solomon
 
 k = unencoded message length  
-n = encoded message length  
+n = encoded message length 
+m = symbol size in bits
 d = hamming distance  
-fixable errors per block = ![](https://latex.codecogs.com/gif.image?\dpi{110}&space;\left&space;\lfloor&space;\frac{d-1}{2}&space;\right&space;\rfloor)  
+t = number of correctable symbols
+
+t = ![](https://latex.codecogs.com/gif.image?\dpi{110}&space;\left&space;\lfloor&space;\frac{d-1}{2}&space;\right&space;\rfloor)
+= ![](https://latex.codecogs.com/svg.image?\frac{n-k}{2})
+
 cylclic codes = any circular bit-shif of a codeword is another valid codeword  
 liner codes = any sum of two valid codewords is is another valid codeword  
 
@@ -15,6 +20,11 @@ example message:
 
 convertion from message space to codeword space is achieved by:  
 **multiplying** the message polynomial by a special **generator polynomial**
+
+# BCH
+
+online BCH code generator
+http://www.ece.unb.ca/cgi-bin/tervo/bch.pl
 
 
 ---
