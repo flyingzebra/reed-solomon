@@ -2,9 +2,11 @@
 
 k = unencoded message length  
 n = encoded message length 
-m = symbol size in bits
+m = symbol size in bits  
 d = hamming distance  
 t = number of correctable symbols
+
+d = ![](https://latex.codecogs.com/svg.image?2t+1)
 
 t = ![](https://latex.codecogs.com/gif.image?\dpi{110}&space;\left&space;\lfloor&space;\frac{d-1}{2}&space;\right&space;\rfloor)
 = ![](https://latex.codecogs.com/svg.image?\frac{n-k}{2})
