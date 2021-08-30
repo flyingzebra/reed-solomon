@@ -18,8 +18,6 @@ convertion from message space to codeword space is achieved by:
 
 
 ---
-![]()
 
----
 https://latex.codecogs.com
 
