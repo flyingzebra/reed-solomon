@@ -17,6 +17,8 @@ convertion from message space to codeword space is achieved by:
 **multiplying** the message polynomial by a special **generator polynomial**
 
 
+---
+![]()
 
 ---
 https://latex.codecogs.com
