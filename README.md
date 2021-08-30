@@ -28,6 +28,9 @@ convertion from message space to codeword space is achieved by:
 online BCH code generator
 http://www.ece.unb.ca/cgi-bin/tervo/bch.pl
 
+# QR code calculation
+
+https://www.thonky.com/qr-code-tutorial/format-version-information
 
 ---
 
